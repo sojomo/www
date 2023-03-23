@@ -1,2 +1,0 @@
-# www
-sojomo.co website
